@@ -1,4 +1,4 @@
-package desafio.itau.backend.entities;
+package desafio.itau.backend.entity;
 
 import java.time.OffsetDateTime;
 
